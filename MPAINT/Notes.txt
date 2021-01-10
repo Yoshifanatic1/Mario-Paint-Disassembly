@@ -1,0 +1,3 @@
+- Before working on this, I legitimately did not know this game had demos if you wait long enough on the title screen. There are 5 in all (technically 6, due to how the game handles demo 5).
+
+- The SPC engine seems needlessly bloated. There had to have been a better way of handling it.
